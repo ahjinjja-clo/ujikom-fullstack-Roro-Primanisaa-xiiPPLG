@@ -1,0 +1,26 @@
+.nav{
+    width: 1000px;
+    height: 5px;
+    display: flex;
+    margin-top: 0px;
+    text-align: center;
+
+}
+.nav-links{
+    margin-left: 800px;
+}
+.link{
+    margin-left: 10px;
+}
+.nav-logo{
+    font-size: 18px;
+    font-weight: bold;
+}
+.link{
+    color: black;
+}
+.link:hover{
+    color: black;
+    background-color: rgba(255, 191, 229, 0.723);
+    border-radius: 5px;
+}
